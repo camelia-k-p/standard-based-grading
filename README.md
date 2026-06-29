@@ -78,7 +78,7 @@ kept in a **private GitHub repository** (master/backup), and a trimmed version
 **unlisted, view-only Overleaf link** that anyone with the link can open and
 copy:
 
-- Overleaf (view & copy your own): **[link to be added]**
+- Overleaf (view & copy your own): **https://www.overleaf.com/read/sywwsntxhmgx#6b2c15**
 - Private repo (invited collaborators): https://github.com/camelia-k-p/mat188-worksheets
 
 Open the Overleaf link to read the worksheets, then use **Copy Project** to make
